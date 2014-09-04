@@ -44,7 +44,5 @@
     "requirejs": "^2.1.14"
   },
   "registry": "jspm",
-  "dependencies": {
-    "traceur": "0.0.58"
-  }
+  "dependencies": {}
 }
