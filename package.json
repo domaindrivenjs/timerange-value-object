@@ -44,5 +44,6 @@
     "requirejs": "^2.1.14"
   },
   "registry": "jspm",
-  "dependencies": {}
+  "dependencies": {},
+  "main": "./src/timerange"
 }
