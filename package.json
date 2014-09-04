@@ -1,0 +1,50 @@
+{
+  "name": "daterange-value-object",
+  "version": "0.0.0",
+  "description": "a JavaScript datarange value object",
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreasgrimm/daterange-value-object.git"
+  },
+  "keywords": [
+    "range",
+    "daterange",
+    "timerange",
+    "value object",
+    "domain driven design"
+  ],
+  "author": "Andreas Grimm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreasgrimm/daterange-value-object/issues"
+  },
+  "homepage": "https://github.com/andreasgrimm/daterange-value-object",
+  "devDependencies": {
+    "assert": "^1.1.1",
+    "component-build": "^1.2.0",
+    "component-resolver": "^1.1.8",
+    "gulp": "^3.8.7",
+    "gulp-clean": "^0.3.1",
+    "gulp-jshint": "^1.8.4",
+    "gulp-rename": "^1.2.0",
+    "gulp-shell": "^0.2.9",
+    "gulp-traceur": "^0.13.0",
+    "karma": "^0.12.21",
+    "karma-chai-plugins": "^0.2.3",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-cli": "0.0.4",
+    "karma-mocha": "^0.1.8",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-requirejs": "^0.2.2",
+    "karma-traceur-preprocessor": "^0.3.0",
+    "mocha": "^1.21.4",
+    "requirejs": "^2.1.14"
+  },
+  "registry": "jspm",
+  "dependencies": {
+    "traceur": "0.0.58"
+  }
+}
