@@ -23,7 +23,7 @@ export class TimeRange {
     return this[ endTime ];
   }
 
-  get toString () {
+  toString () {
     //TODO use string interpolation!
     return 'from: ' + this[ startTime ].toTimeString() + ' to: ' + this[ endTime ].toTimeString();
   };
